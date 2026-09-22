@@ -1,0 +1,82 @@
+[
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "call_date": "2023-11-02",
+    "transcript": "Operator: Good day and welcome to the Apple Q4 Fiscal 2023 Earnings Conference Call. Tim Cook: Thank you. Today we are reporting a September quarter revenue of $89.5 billion, down 1% year over year. iPhone revenue was $43.8 billion, down 2%. We are extremely pleased with the strong customer response to our new products. We continue to see significant opportunities ahead. Looking forward, we remain confident in our ability to innovate and grow. Luca Maestri: Gross margin was 45.2%. We expect Q1 revenue to be similar to last year. We are optimistic about the holiday season. Analyst: Can you provide more color on China demand? Tim Cook: We saw some challenges but we are very optimistic about the long-term trajectory. We don't break out specific numbers by geography in the way you are asking. We feel great about the product pipeline."
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "call_date": "2024-02-01",
+    "transcript": "Operator: Welcome to Apple's Q1 Fiscal 2024 Earnings Call. Tim Cook: We generated revenue of $119.6 billion, up 2%. iPhone was particularly strong. Services hit an all-time high. We are incredibly optimistic about the future of AI and how it will enhance our products. We have a number of initiatives underway that we are very excited about. Luca Maestri: Operating margin expanded. We returned $27 billion to shareholders. Looking ahead, we expect continued growth in Services. Analyst: What is the specific timeline for generative AI features? Tim Cook: We are working on a number of things. We will share more when we are ready. We are very confident in our approach. We don't want to get into product roadmaps at this time."
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "call_date": "2024-02-21",
+    "transcript": "Operator: Good afternoon. Welcome to NVIDIA's First Quarter Fiscal 2024 Earnings Call. Jensen Huang: We achieved record revenue of $22.1 billion, up 265% year over year. Data center was $18.4 billion. The demand for Hopper is extraordinary. We are seeing incredible momentum across generative AI. Our visibility remains strong into the second half. Colette Kress: Gross margin was 76.0%. We guided Q2 revenue to $24.0 billion, plus or minus 2%. Analyst: How sustainable is this growth rate? Jensen Huang: The opportunity in front of us is massive. Every company is becoming an AI company. We are just getting started. The TAM is expanding rapidly. We have strong confidence in our roadmap and supply chain."
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "call_date": "2023-11-21",
+    "transcript": "Operator: Welcome. Jensen Huang: Revenue was $18.1 billion. Data center continues to be the growth engine. We are seeing broad-based demand. Visibility is good but we remain cautious about the macroeconomic environment. Colette Kress: We expect sequential growth. Analyst: Can you quantify the backlog? Jensen Huang: We don't provide specific backlog numbers. Demand is strong across multiple verticals. We are working closely with customers. There are some supply constraints that we are actively addressing. We feel good about our position."
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "call_date": "2023-10-18",
+    "transcript": "Operator: Good afternoon. Elon Musk: Deliveries were a record. We are making good progress on next-generation vehicles. Cybertruck production is ramping. We believe autonomy will be a major driver of value. Zach Kirkhorn: Automotive gross margin was impacted by price reductions. We are focused on cost reductions. Analyst: When will Full Self-Driving be ready for unsupervised use? Elon Musk: We are very close. I am highly confident. Regulatory approval is the main variable. We expect significant progress in the coming quarters. It is hard to give an exact date."
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla, Inc.",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "call_date": "2024-04-23",
+    "transcript": "Operator: Welcome to Tesla Q1 2024 Update. Elon Musk: Vehicle deliveries declined sequentially as expected. We are seeing softer demand in some regions. We remain extremely optimistic about the long-term opportunity with AI and robotics. Optimus is progressing well. Energy storage is growing fast. Vaibhav Taneja: Gross margin compressed. Free cash flow was positive. Analyst: How concerned are you about competition and pricing pressure? Elon Musk: Competition is healthy. We will continue to innovate. Volume is more important than near-term margin. We have a lot of flexibility. Specific guidance on margin recovery is difficult right now because of multiple moving pieces."
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "call_date": "2024-01-30",
+    "transcript": "Operator: Good afternoon. Satya Nadella: Revenue was $62.0 billion, up 18%. Azure growth accelerated. We are seeing strong demand for AI services. Copilot is gaining traction across commercial and consumer. Amy Hood: Operating income grew. We returned capital to shareholders. Looking ahead, we expect continued momentum in cloud and AI. Analyst: Can you break down the AI contribution to Azure growth? Satya Nadella: AI services are a meaningful and growing portion. We don't break out the exact percentage every quarter. The overall Azure growth rate reflects both core and AI-driven demand. We are very confident in the durability of this trend."
+  },
+  {
+    "ticker": "META",
+    "company": "Meta Platforms, Inc.",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "call_date": "2024-02-01",
+    "transcript": "Operator: Welcome. Mark Zuckerberg: We had a strong quarter. Family of Apps revenue grew. Reality Labs investment continues. We are making good progress on AI and the metaverse. Susan Li: Ad impressions and price per ad both increased. We guided Q1 with typical seasonality. Analyst: How should we think about the ROI of Reality Labs spending? Mark Zuckerberg: These are long-term bets. We are focused on building the next computing platform. Near-term financial contribution is not the primary metric. We remain committed to the strategy and are seeing encouraging signals on engagement and developer interest."
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "call_date": "2024-04-12",
+    "transcript": "Operator: Good morning. Jamie Dimon: We reported strong results. Net income was $13.4 billion. Credit quality remains solid. We are prepared for a range of economic scenarios. Jeremy Barnum: NII was resilient. Expenses were well controlled. Analyst: What is your outlook for net interest income in a higher-for-longer rate environment? Jamie Dimon: We have given guidance ranges. There are many variables including deposit beta and loan growth. We are comfortable with our positioning. We don't want to get too precise on every scenario. The balance sheet is in great shape."
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon.com, Inc.",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "call_date": "2024-02-01",
+    "transcript": "Operator: Thank you for joining. Andy Jassy: Revenue was $170.0 billion. AWS growth reaccelerated. Advertising is a bright spot. We continue to invest in efficiency. Brian Olsavsky: Operating margin expanded significantly year over year. Free cash flow was strong. Analyst: How much of the AWS improvement is AI-related versus core recovery? Andy Jassy: Both are contributing. Generative AI is early but the pipeline is robust. We are seeing customers move workloads and also build new AI applications. We expect this to be a multi-year driver. Exact attribution is not something we break out quarterly."
+  }
+]
